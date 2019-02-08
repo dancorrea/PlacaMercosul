@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Como Será Minha Placa</string>
+    <string name="traco">-</string>
+    <string name="consultar">Consultar</string>
+    <string name="nova_consulta">Nova Consulta</string>
+    <string name="txt_informe">Informe sua placa na imagem</string>
+    <string name="txt_mercosul">Placa no novo padrão</string>
+    <string name="hint_letras">ABC</string>
+    <string name="hint_numeros">1234</string>
+</resources>
